@@ -1,1 +1,2 @@
-https://github.com/WONshotApp/.github
+### 영수증 사진 1샷으로 가계부를 작성하다, 
+# 촬영가계부 ₩ONshot
